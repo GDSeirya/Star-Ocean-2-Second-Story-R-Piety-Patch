@@ -25,7 +25,6 @@ Current features:
 - A legitimate copy of **Star Ocean: The Second Story R**
 - [BepInEx](https://github.com/BepInEx/BepInEx) IL2CPP installed
 - Windows PC version of the game
-- Optional: [BepInEx Configuration Manager](https://github.com/BepInEx/BepInEx.ConfigurationManager) (IL2CPP build) for changing settings in-game
 
 ### For Developers
 
