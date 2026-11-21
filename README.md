@@ -60,7 +60,7 @@ Clone the repository:
 git clone https://github.com/GDSeirya/Star-Ocean-2-Second-Story-R-Piety-Patch.git
 ```
 
-Open `PietyCrit.csproj` and set `GameDir` to your game installation folder.
+Open `PietyCrit.csproj` and set it to your game installation folder.
 
 Build the project using Visual Studio (**Build → Build Solution**) or the command line:
 
@@ -130,7 +130,7 @@ Developers must generate their own copies.
 1. Install BepInEx IL2CPP into the game directory.
 2. Launch the game once to generate the IL2CPP interop assemblies.
 3. Clone this repository.
-4. Update `GameDir` in `PietyCrit.csproj` to point to your game folder.
+4. Update your directories in `PietyCrit.csproj` to point to your game folder.
 5. Open the project in Visual Studio 2022, or use the `dotnet` CLI.
 6. Build the project.
 
